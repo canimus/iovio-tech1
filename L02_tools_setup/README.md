@@ -83,3 +83,10 @@ Finally we install the docker services
 sudo apt-get update
 sudo apt-get install docker-engine
 ```
+
+Now we incorporate the images that we will require down in the road, covering the requirement of distributed and grid execution.
+```sh
+sudo docker pull selenium/hub:3.0.1-aluminum
+sudo docker pull selenium/node-chrome:3.0.1-aluminum
+sudo docker pull selenium/node-firefox:3.0.1-aluminum
+```
