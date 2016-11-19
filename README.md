@@ -24,40 +24,40 @@ Once you have this two boys ready, then you will be able to build everything a c
 
 This section takes care of the setup in our local environment, in such a way that it will be managed by Vagrant and VirtualBox respectively. It describes how to construct our platform, using these two technologies.
 
-All source code for this section is available in the folder named:<br/> __[:1_platform_setup](http://github.com/canimus/iovio-tech1/tree/master/1_platform_setup)__
+All source code for this section is available in the folder named:<br/> __[:A_platform_setup](http://github.com/canimus/iovio-tech1/tree/master/A_platform_setup)__
 
 ## 2. Tools Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:2_tools_setup](http://github.com/canimus/iovio-tech1/tree/master/2_tools_setup)__
+__[:B_tools_setup](http://github.com/canimus/iovio-tech1/tree/master/B_tools_setup)__
 
 ## 3. Repository Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:3_repository_setup](http://github.com/canimus/iovio-tech1/tree/master/3_repository_setup)__
+__[:C_repository_setup](http://github.com/canimus/iovio-tech1/tree/master/C_repository_setup)__
 
 ## 4. Libraries Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:4_libraries_setup](http://github.com/canimus/iovio-tech1/tree/master/4_libraries_setup)__
+__[:D_libraries_setup](http://github.com/canimus/iovio-tech1/tree/master/D_libraries_setup)__
 
 ## 5. Development Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:5_development_setup](http://github.com/canimus/iovio-tech1/tree/master/5_development_setup)__
+__[:E_development_setup](http://github.com/canimus/iovio-tech1/tree/master/E_development_setup)__
 
 ## 6. Build Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:6_build_setup](http://github.com/canimus/iovio-tech1/tree/master/6_build_setup)__
+__[:F_build_setup](http://github.com/canimus/iovio-tech1/tree/master/F_build_setup)__
 
 ## 7. Framework Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:7_framework_setup](http://github.com/canimus/iovio-tech1/tree/master/7_framework_setup)__
+__[:G_framework_setup](http://github.com/canimus/iovio-tech1/tree/master/G_framework_setup)__
 
 ## 8. Report Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:8_report_setup](http://github.com/canimus/iovio-tech1/tree/master/8_report_setup)__
+__[:H_report_setup](http://github.com/canimus/iovio-tech1/tree/master/H_report_setup)__
 
 ## 9. Grid Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:9_grid_setup](http://github.com/canimus/iovio-tech1/tree/master/9_grid_setup)__
+__[:I_grid_setup](http://github.com/canimus/iovio-tech1/tree/master/I_grid_setup)__
 
 ## 10. Integration Setup
 This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
-__[:10_integration_setup](http://github.com/canimus/iovio-tech1/tree/master/10_integration_setup)__
+__[:J_integration_setup](http://github.com/canimus/iovio-tech1/tree/master/J_integration_setup)__
