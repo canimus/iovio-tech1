@@ -8,6 +8,8 @@ Our tool workbench consists in the following components:
 2. Ruby Environment Manager (RVM)
 3. Ruby MRI (ruby-2.3.0)
 4. Conda Analytics Python Platform
+5. Docker Service for Containers
+6. Docker Images for containerized Browsers (Chrome,Firefox)
 
 
 __Let's move on!__
