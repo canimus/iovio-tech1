@@ -12,7 +12,7 @@ __Let's get started!__
 
 ```sh
 # This will download the Virtual Machine into your environment
->vagrant box add ubuntu/xenial64
+vagrant box add ubuntu/xenial64
 ```
 
 After completed, you can confirm that the box is available by entering the following command:
@@ -55,3 +55,4 @@ The result is that a new machine will be instantiated and you will be ready to l
 # Connect into the virtual machine
 vagrant ssh
 ```
+[Next >](http://github.com/canimus/iovio-tech1/tree/master/L02_tools_setup)
