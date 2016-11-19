@@ -20,6 +20,8 @@ This walkthrough requires you to have the following software installed in your l
 
 Once you have this two boys ready, then you will be able to build everything a consistent, reliable and repeatable environment across any sort of platform.
 
+-------
+
 ## 1. Platform Setup
 
 This section takes care of the setup in our local environment, in such a way that it will be managed by Vagrant and VirtualBox respectively. It describes how to construct our platform, using these two technologies:<br/> [:A_platform_setup](http://github.com/canimus/iovio-tech1/tree/master/A_platform_setup)
@@ -45,17 +47,17 @@ This section elaborates in the mechanisms to scale the automated solution, and d
 [:F_build_setup](http://github.com/canimus/iovio-tech1/tree/master/F_build_setup)
 
 ## 7. Framework Setup
-This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
+This section introduces Patterns and Anti-Patterns in the development process, to prevent common pitfalls in automation and execution of test suites:
 [:G_framework_setup](http://github.com/canimus/iovio-tech1/tree/master/G_framework_setup)
 
 ## 8. Report Setup
-This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
+This section elaborates about the different mechanisms available to present the test results, as it is perhaps the most important and relevant step in the testing process in the eyes of the business owners:<br/>
 [:H_report_setup](http://github.com/canimus/iovio-tech1/tree/master/H_report_setup)
 
 ## 9. Grid Setup
-This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
+This section presents the concept associated to distributed computing and tesitng efforts, wether in a local distributed fashion or through cloud-enabled environments:<br/>
 [:I_grid_setup](http://github.com/canimus/iovio-tech1/tree/master/I_grid_setup)
 
 ## 10. Integration Setup
-This section addresses using a tool that help us gain efficiencies in our workflow:<br/>
+This section introduces the concepts associated to modern technologies, to use API's that integrate :<br/>
 [:J_integration_setup](http://github.com/canimus/iovio-tech1/tree/master/J_integration_setup)
