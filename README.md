@@ -20,7 +20,8 @@ This walkthrough requires you to have the following software installed in your l
 
 Once you have this two boys ready, then you will be able to build everything a consistent, reliable and repeatable environment across any sort of platform.
 
--------
+<br/>
+<br/>
 
 ## 1. Platform Setup
 
@@ -47,7 +48,7 @@ This section elaborates in the mechanisms to scale the automated solution, and d
 [:L06_build_setup](http://github.com/canimus/iovio-tech1/tree/master/L06_build_setup)
 
 ## 7. Framework Setup
-This section introduces Patterns and Anti-Patterns in the development process, to prevent common pitfalls in automation and execution of test suites:
+This section introduces Patterns and Anti-Patterns in the development process, to prevent common pitfalls in automation and execution of test suites:</br>
 [:L07_framework_setup](http://github.com/canimus/iovio-tech1/tree/master/L07_framework_setup)
 
 ## 8. Report Setup
