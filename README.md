@@ -24,40 +24,40 @@ Once you have this two boys ready, then you will be able to build everything a c
 
 ## 1. Platform Setup
 
-This section takes care of the setup in our local environment, in such a way that it will be managed by Vagrant and VirtualBox respectively. It describes how to construct our platform, using these two technologies:<br/> [:A_platform_setup](http://github.com/canimus/iovio-tech1/tree/master/A_platform_setup)
+This section takes care of the setup in our local environment, in such a way that it will be managed by Vagrant and VirtualBox respectively. It describes how to construct our platform, using these two technologies:<br/> [:L01_platform_setup](http://github.com/canimus/iovio-tech1/tree/master/A_platform_setup)
 
 ## 2. Tools Setup
 This section addresses using a tool that help us gain efficiencies in our workflow as well as reducing the time spent in building automated test scripts:<br/>
-[:B_tools_setup](http://github.com/canimus/iovio-tech1/tree/master/B_tools_setup)
+[:L02_tools_setup](http://github.com/canimus/iovio-tech1/tree/master/B_tools_setup)
 
 ## 3. Repository Setup
 This section introduces development practices to employ version control systems around the test assets:<br/>
-[:C_repository_setup](http://github.com/canimus/iovio-tech1/tree/master/C_repository_setup)
+[:L03_repository_setup](http://github.com/canimus/iovio-tech1/tree/master/C_repository_setup)
 
 ## 4. Libraries Setup
 This section introduces the library management structure, to guarantee that redeployment of solution is consistent across clients and team members:<br/>
-[:D_libraries_setup](http://github.com/canimus/iovio-tech1/tree/master/D_libraries_setup)
+[:L04_libraries_setup](http://github.com/canimus/iovio-tech1/tree/master/D_libraries_setup)
 
 ## 5. Development Setup
 This section introduces the release mechanisms and naming conventions followed to minimise re-work and reduce maintaince activities in the code base:<br/>
-[:E_development_setup](http://github.com/canimus/iovio-tech1/tree/master/E_development_setup)
+[:L05_development_setup](http://github.com/canimus/iovio-tech1/tree/master/E_development_setup)
 
 ## 6. Build Setup
 This section elaborates in the mechanisms to scale the automated solution, and distribute build processes to external entities outside of the development workflow:<br/>
-[:F_build_setup](http://github.com/canimus/iovio-tech1/tree/master/F_build_setup)
+[:L06_build_setup](http://github.com/canimus/iovio-tech1/tree/master/F_build_setup)
 
 ## 7. Framework Setup
 This section introduces Patterns and Anti-Patterns in the development process, to prevent common pitfalls in automation and execution of test suites:
-[:G_framework_setup](http://github.com/canimus/iovio-tech1/tree/master/G_framework_setup)
+[:L07_framework_setup](http://github.com/canimus/iovio-tech1/tree/master/G_framework_setup)
 
 ## 8. Report Setup
 This section elaborates about the different mechanisms available to present the test results, as it is perhaps the most important and relevant step in the testing process in the eyes of the business owners:<br/>
-[:H_report_setup](http://github.com/canimus/iovio-tech1/tree/master/H_report_setup)
+[:L08_report_setup](http://github.com/canimus/iovio-tech1/tree/master/H_report_setup)
 
 ## 9. Grid Setup
 This section presents the concept associated to distributed computing and tesitng efforts, wether in a local distributed fashion or through cloud-enabled environments:<br/>
-[:I_grid_setup](http://github.com/canimus/iovio-tech1/tree/master/I_grid_setup)
+[:L09_grid_setup](http://github.com/canimus/iovio-tech1/tree/master/I_grid_setup)
 
 ## 10. Integration Setup
 This section introduces the concepts associated to modern technologies, to use API's that integrate :<br/>
-[:J_integration_setup](http://github.com/canimus/iovio-tech1/tree/master/J_integration_setup)
+[:L10_integration_setup](http://github.com/canimus/iovio-tech1/tree/master/J_integration_setup)
