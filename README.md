@@ -12,7 +12,10 @@ If you are starting a project most likely you will have to setup your environmen
 
 Ok, let's first gear up to avoid the popular phrase we all love: *"It works on my machine!"*. Now to prevent this, we need to build, not manually, but mechanically an engineered platform to develop our test assets.
 
-### Pre-requisites
+### 1.1 Pre-requisites
 This walkthrough requires you to have the following software installed in your laptop/workstation:
 
-1. [VirtualBox](http://virtualbox.org/wiki/Downloads){:target="_blank"}
+1. [VirtualBox](http://virtualbox.org/wiki/Downloads)
+2. [Vagrant](https://www.vagrantup.com/downloads.html)
+
+Once you have this two boys ready, then you will be able to build everything a consistent, reliable and repeatable environment across any sort of platform.
