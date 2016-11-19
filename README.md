@@ -20,8 +20,10 @@ This walkthrough requires you to have the following software installed in your l
 
 Once you have this two boys ready, then you will be able to build everything a consistent, reliable and repeatable environment across any sort of platform.
 
+
 <br/>
 <br/>
+
 
 ## 1. Platform Setup
 
