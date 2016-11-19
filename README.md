@@ -24,4 +24,4 @@ Once you have this two boys ready, then you will be able to build everything a c
 
 Our environment locally will be managed by Vagrant and VirtualBox respectively, the next step is to construct our platform, using these two technologies.
 
-All source code for this section is available in the folder named:<br/> __[:1_platform_setup](http://github.com/canimus/iovio-tech1/1_platform_setup)__
+All source code for this section is available in the folder named:<br/> __[:1_platform_setup](http://github.com/canimus/iovio-tech1/tree/master/1_platform_setup)__
