@@ -1,3 +1,4 @@
 .vagrant/
 ubuntu-xenial*
 Vagrantfile
+selenium-training/
