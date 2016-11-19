@@ -15,4 +15,4 @@ Ok, let's first gear up to avoid the popular phrase we all love: *"It works on m
 ### Pre-requisites
 This walkthrough requires you to have the following software installed in your laptop/workstation:
 
-1. [VirtualBox](http://virtualbox.org/wiki/Downloads)
+1. [VirtualBox](http://virtualbox.org/wiki/Downloads){:target="_blank"}
